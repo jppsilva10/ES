@@ -1,0 +1,7 @@
+Stakeholder maps:
+Adicionamos e retiramos algums stakeholder's e melhoramos as interações.
+
+Customer journeys:
+Adicionamos o passo "comer" ao serviço
+Retiramos o "Reconhecimento facial" e o "Locator tag" como channels
+Melhoramos o backstage
